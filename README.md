@@ -4,6 +4,8 @@ Just tell it what ingredients you have, and it will whip up delicious, creative 
 
 ![alt text](image.png)
 
+<img width="2240" height="1198" alt="image" src="https://github.com/user-attachments/assets/70cdfb6e-c099-4992-a6ac-9bb81c176773" />
+
 # ✨ Features
 🥗 Ingredient-Based Cooking – Recipes generated from what’s in your kitchen.
 
@@ -19,17 +21,15 @@ Just tell it what ingredients you have, and it will whip up delicious, creative 
 
 # 🚀 Quick Start
 bash
-# 1️⃣ Clone the repository
+## 1️⃣ Clone the repository
 git clone https://github.com/yourusername/chef-claude.git
 cd chef-claude
 
-<img width="2240" height="1198" alt="image" src="https://github.com/user-attachments/assets/70cdfb6e-c099-4992-a6ac-9bb81c176773" />
-
-# 2️⃣ Install dependencies
+## 2️⃣ Install dependencies
 npm install
 
-# 3️⃣ Add Claude API Key in .env file
+## 3️⃣ Add Claude API Key in .env file
 CLAUDE_API_KEY=your_api_key_here
 
-# 4️⃣ Start the app
+## 4️⃣ Start the app
 npm run dev

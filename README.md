@@ -1,7 +1,9 @@
 # 🍳 Chef Claude – AI Recipe Generator
 Chef Claude is your smart kitchen companion.
 Just tell it what ingredients you have, and it will whip up delicious, creative recipes using Claude AI — complete with step-by-step cooking instructions.
+
 ![alt text](image.png)
+
 # ✨ Features
 🥗 Ingredient-Based Cooking – Recipes generated from what’s in your kitchen.
 
@@ -12,12 +14,16 @@ Just tell it what ingredients you have, and it will whip up delicious, creative 
 🌍 Global Cuisine Options – Explore dishes from around the world.
 
 🔄 Regenerate Recipes – Not satisfied? Get a new one instantly.
+
 ![alt text](image-1.png)
+
 # 🚀 Quick Start
 bash
 # 1️⃣ Clone the repository
 git clone https://github.com/yourusername/chef-claude.git
 cd chef-claude
+
+<img width="2240" height="1198" alt="image" src="https://github.com/user-attachments/assets/70cdfb6e-c099-4992-a6ac-9bb81c176773" />
 
 # 2️⃣ Install dependencies
 npm install

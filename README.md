@@ -4,7 +4,8 @@ Just tell it what ingredients you have, and it will whip up delicious, creative 
 
 ![alt text](image.png)
 
-<img width="2240" height="1198" alt="image" src="https://github.com/user-attachments/assets/70cdfb6e-c099-4992-a6ac-9bb81c176773" />
+![alt text](image-1.png)
+
 
 # ✨ Features
 🥗 Ingredient-Based Cooking – Recipes generated from what’s in your kitchen.
@@ -17,7 +18,7 @@ Just tell it what ingredients you have, and it will whip up delicious, creative 
 
 🔄 Regenerate Recipes – Not satisfied? Get a new one instantly.
 
-![alt text](image-1.png)
+<img width="2240" height="1198" alt="image" src="https://github.com/user-attachments/assets/70cdfb6e-c099-4992-a6ac-9bb81c176773" />
 
 # 🚀 Quick Start
 bash
